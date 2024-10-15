@@ -10,7 +10,7 @@ import Footer from "../components/Layout/Footer";
 
 const HomePage = () => {
   return (
-    <div>
+    <div style={{overflowX: "hidden"}}>
         <Header activeHeading={1} />
         <Hero />
         <Categories />
