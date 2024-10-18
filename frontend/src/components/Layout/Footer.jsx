@@ -1,4 +1,4 @@
-import React from "react";
+xcimport React from "react";
 import {
   AiFillFacebook,
   AiFillInstagram,
@@ -43,7 +43,7 @@ const Footer = () => {
           />
           
           <br />
-          <p>Bringing unique value to locally made products.</p>
+          <p>Bringing unique value to many exceptional products.</p>
           <div className="flex items-center mt-[15px]">
             <AiFillFacebook size={25} className="cursor-pointer" />
             <AiOutlineTwitter
