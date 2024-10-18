@@ -1,4 +1,7 @@
 import React from 'react'
+// Add this at the top of the file
+import { Link } from "react-router-dom";
+
 import { AiOutlineGift } from 'react-icons/ai'
 import { BiMessageSquareDetail } from 'react-icons/bi'
 import { FiPackage, FiShoppingBag } from 'react-icons/fi'
