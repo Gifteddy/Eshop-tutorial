@@ -20,7 +20,7 @@ const Hero = () => {
             src={bannerImage1} 
             alt="Banner" 
             style={{ 
-              position: 'absolute', 
+              position: 'relative', 
               zIndex: '-1', 
               height: '100%', 
               objectFit: 'cover', 
