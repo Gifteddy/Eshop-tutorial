@@ -21,7 +21,7 @@ const Hero = () => {
             alt="Banner" 
             style={{ 
               position: 'absolute', 
-              top: '2px',
+              top: '-50px',
               zIndex: '-1', 
               height: '100%', 
               objectFit: 'cover', 
